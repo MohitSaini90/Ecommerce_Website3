@@ -9,7 +9,7 @@ import productRoute from "./routes/productRoute.js";
 import path from "path";
 import { fileURLToPath } from "url";
 
-const app = express();
+const app = express(); 
 
 //configure
 dotenv.config();
